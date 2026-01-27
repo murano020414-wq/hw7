@@ -1,0 +1,7 @@
+a[href="http"] {
+color: red;
+}
+ul + p {
+    size: 24px;
+}
+
