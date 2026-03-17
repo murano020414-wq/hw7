@@ -1,7 +1,7 @@
-a[href="http"] {
+a[href*="https"] {
 color: red;
 }
 ul + p {
-    size: 24px;
+   font-size: 24px;
 }
 
